@@ -1,0 +1,27 @@
+body {
+  background-image: url(./assets/bg-pattern.svg);
+  background-repeat: no-repeat;
+  max-width: 100vw;
+  padding: 16px;
+  background-position-y: -35px;
+  overflow: hidden;
+  background-color: #ffff;
+  scroll-behavior: none;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    background-position-y: -2rem;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  body {
+    background-position-y: -3.5rem;
+    background-size: contain;
+  }
+}
+@media only screen and (max-height: 700px) {
+  body {
+    overflow-y: scroll;
+  }
+}

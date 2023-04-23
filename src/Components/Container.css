@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Manrope, sans-serif;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: -15px;
+}
+
+.topside {
+  background-image: url(../assets/pattern-circles.svg);
+  background-repeat: no-repeat;
+  background-size: 146px;
+  background-position: center;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-top: 25px;
+}
+
+.topside > h1 {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #293356;
+}
+
+.topside > h2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 23px;
+  text-align: center;
+  color: #848ead;
+}
+
+@media only screen and (min-width: 768px) {
+  .breakline {
+    display: none;
+  }
+
+  .topside > h1 {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  .topside > h2 {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+  }
+}
