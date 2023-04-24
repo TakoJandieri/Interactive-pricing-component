@@ -40,16 +40,22 @@
   .breakline {
     display: none;
   }
+  
+  .topside {
+    margin-bottom: 5px;
+  }
 
   .topside > h1 {
     font-weight: 800;
     font-size: 28px;
     line-height: 38px;
+    margin-bottom: 12px;
   }
 
   .topside > h2 {
     font-weight: 600;
     font-size: 15px;
     line-height: 20px;
+    margin-top: 0px;
   }
 }
