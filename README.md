@@ -9,13 +9,14 @@ This is a solution to the Interactive-pricing-component challenge
 - Live Site URL: [Click here](https://takojandieri.github.io/Interactive-pricing-component/).
 
 ### Screenshot
-#Mobile
+
+#### Mobile
 ![WebPage Preview](/public/previews/mobileView.png)
 
-#Desktop
+#### Desktop
 ![WebPage Preview](/public/previews/desktopView.png)
 
-#Desktop-Active
+#### Desktop-Active
 ![WebPage Preview](/public/previews/active-states.jpg)
 
 ### Built with
@@ -30,5 +31,4 @@ This is a solution to the Interactive-pricing-component challenge
 ## Author
 
 - GitHub - [TakoJandieri](https://github.com/TakoJandieri)
-- Frontend Mentor - [TakoJandieri](https://github.com/TakoJandieri)
 - LinkedIn - [@tako-jandieri](https://www.linkedin.com/in/tako-jandieri/)
