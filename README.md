@@ -9,9 +9,13 @@ This is a solution to the Interactive-pricing-component challenge
 - Live Site URL: [Click here](https://takojandieri.github.io/Interactive-pricing-component/).
 
 ### Screenshot
-
+#Mobile
 ![WebPage Preview](/public/previews/mobileView.png)
+
+#Desktop
 ![WebPage Preview](/public/previews/desktopView.png)
+
+#Desktop-Active
 ![WebPage Preview](/public/previews/active-states.jpg)
 
 ### Built with
