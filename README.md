@@ -8,6 +8,8 @@ This is a solution to the Interactive-pricing-component challenge
 
 - Live Site URL: [Click here](https://takojandieri.github.io/Interactive-pricing-component/).
 
+
+
 ### Screenshot
 
 #### Mobile
@@ -24,7 +26,7 @@ This is a solution to the Interactive-pricing-component challenge
 - JavaScript
 - CSS3
 - Mobile-first workflow
-- React.js
+- React
 - TypeScript
 - Vite
 
